@@ -41,8 +41,7 @@ export default function Footer(){
           width="114"
           height="54"
           alt="Logo"
-        >
-        </Image>
+        />
         <p>Lonsre @Copyright 2021</p>
       </div>
 
